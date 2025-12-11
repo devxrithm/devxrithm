@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
 ###
-<p align="left">Hi I'm Ujjwal, A Full Stack Developer working on Typescript environment.</p>
+<h6 align="center">Hi I'm Ujjwal, A Full Stack Developer working on Typescript environment.</h6>
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
