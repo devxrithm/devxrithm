@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  ###
+<h3 align="center">Hi there, I'm Ujjwal, A Full Stack Developer</h3>
 
 ###
 <h2 align="left">🛠 Language and tools</h3>
