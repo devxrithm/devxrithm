@@ -7,8 +7,8 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
-<h2 align="left" >I'm a Full Stack Developer working on Typescript Eenvironment</h2>
-
+<h4 align="left" >I'm a Full Stack Developer working on Typescript Eenvironment</h4>
+###
 <h2 align="left">🛠 Language and tools</h3>
 
 <div align="center">
