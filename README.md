@@ -8,6 +8,56 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
 <h4 align="left" >I'm a Full Stack Developer working on Typescript Eenvironment</h4>
+
+---
+
+### 👨‍💻 About Me
+
+- 🚀 Passionate **Full Stack Developer** focused on building scalable, high-performance web applications  
+- 💻 Working primarily in the **TypeScript ecosystem** with modern frameworks and tooling  
+- 🧠 Strong interest in **system design, backend architecture, and real-time systems**  
+- ⚡ Love optimizing APIs, databases, and application performance  
+- 🧩 Enjoy solving complex problems and turning ideas into production-ready products  
+- 📚 Constant learner, exploring new technologies and best practices in web development  
+
+---
+
+### 🔧 What I Work On
+
+- 🌐 Full Stack Web Applications (Frontend + Backend)  
+- 🧩 REST APIs & Real-Time Systems  
+- 🗄️ Database Design & Optimization  
+- 🔐 Authentication & Authorization Systems  
+- ⚙️ Scalable Backend Architectures  
+- 📦 Clean, Maintainable Codebases  
+
+---
+
+### 🏗️ Tech Focus
+
+- **Frontend:** React, Next.js, Tailwind CSS, performance optimization  
+- **Backend:** Node.js, scalable APIs, event-driven systems  
+- **Databases:** PostgreSQL, MongoDB, Prisma, query optimization  
+- **Infrastructure:** Redis caching, Kafka messaging, background jobs  
+
+---
+
+### 📈 Current Goals
+
+- 🚀 Build production-grade, scalable applications  
+- 🧠 Improve system design & backend performance skills  
+- 🛠️ Contribute to meaningful open-source projects  
+- 📊 Work on real-time and high-throughput systems  
+
+---
+
+### 🤝 Let’s Connect
+
+- 💼 Open to collaboration on interesting projects  
+- 💡 Always happy to discuss tech, startups, and system design  
+- 📬 Reach out via LinkedIn or Twitter  
+
+---
 ###
 <h2 align="left">🛠 Language and tools</h3>
 
