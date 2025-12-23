@@ -16,9 +16,17 @@
   <li>
     Passionate Full Stack Developer focused on building scalable, high-performance web applications 
   </li>
-Working primarily in the **TypeScript ecosystem** with modern frameworks and tooling  
+  <li>
+    Working primarily in the **TypeScript ecosystem** with modern frameworks and tooling      
+  </li>
+  <li>
+    
 Strong interest in **system design, backend architecture, and real-time systems**  
+  </li>
+  <li>
+    
 Love optimizing APIs, databases, and application performance  
+  </li>
 Enjoy solving complex problems and turning ideas into production-ready products  
 Constant learner, exploring new technologies and best practices in web development  
 </div>
