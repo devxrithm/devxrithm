@@ -13,7 +13,9 @@
 
 ### 👨‍💻 About Me
 <div align="left">
-Passionate **Full Stack Developer** focused on building scalable, high-performance web applications  
+  <li>
+    Passionate Full Stack Developer focused on building scalable, high-performance web applications 
+  </li>
 Working primarily in the **TypeScript ecosystem** with modern frameworks and tooling  
 Strong interest in **system design, backend architecture, and real-time systems**  
 Love optimizing APIs, databases, and application performance  
