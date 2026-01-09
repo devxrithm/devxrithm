@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
 </div>
 </br>
-I'm a Fullstack Developer from India, currently working on a <em><strong>Typescript Environment </strong></em>. I'm a skilled developer with expertise in web development and software development. I have gained a strong foundation in the programming languages <em><strong>C++ & Typescript/Javascript </strong></em>.</br></br>
+I'm a Fullstack Developer from India, currently working on a <em><strong>Typescript Environment </strong></em>. I'm a skilled developer with expertise in web development and software development. I have gained a strong foundation in the programming languages <strong>C++ & Typescript/Javascript </strong>.</br></br>
 I have a passion for creating clean and efficient code, and I'm always eager to learn new technologies to stay on top of the latest trends in the industry.
 
 <h2 align="left">🛠 Language and tools</h3>
