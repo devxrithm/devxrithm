@@ -9,27 +9,25 @@
 
 <h4 align="left" >I'm a Full Stack Developer working on Typescript Eenvironment</h4>
 
+# Hey there, I'm Ujjwal (he/him)
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/itsukcode/)
+- Twitter
+
+I'm a Full Stack Developer working on TypeScript Environment
+
 ---
 
 ### 👨‍💻 About Me
-<div align="left">
-  <li>
-    Passionate Full Stack Developer focused on building scalable, high-performance web applications 
-  </li>
-  <li>
-    Working primarily in the **TypeScript ecosystem** with modern frameworks and tooling      
-  </li>
-  <li>
-    
-Strong interest in **system design, backend architecture, and real-time systems**  
-  </li>
-  <li>
-    
-Love optimizing APIs, databases, and application performance  
-  </li>
-Enjoy solving complex problems and turning ideas into production-ready products  
-Constant learner, exploring new technologies and best practices in web development  
-</div>
+
+- Passionate Full Stack Developer focused on building scalable, high-performance web applications
+- Working primarily in the **TypeScript ecosystem** with modern frameworks and tooling
+- Strong interest in **system design, backend architecture, and real-time systems**
+- Love optimizing APIs, databases, and application performance
+- Enjoy solving complex problems and turning ideas into production-ready products
+- Constant learner, exploring new technologies and best practices in web development
 ---
 
 ### 🔧 What I Work On
@@ -71,6 +69,33 @@ Constant learner, exploring new technologies and best practices in web developme
 
 
 ###
+<h2 align="left">🛠 Language and tools</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="amazonwebservices logo"  />
+</div>
+
+
+###
+
 <h2 align="left">🛠 Language and tools</h3>
 
 <div align="center">
