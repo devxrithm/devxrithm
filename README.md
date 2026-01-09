@@ -2,12 +2,13 @@
 
 ###
 <div align="center">
-  <a href="https://www.linkedin.com/in/itsukcode/">
+# Hey, I'm Ujjwal 👋
+ <a href="https://www.linkedin.com/in/itsukcode/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+Nice to meet you! My name is Jonathan. I'm currently studying and working as a [Dev Degree](https://devdegree.ca/) intern @Shopify. I previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer. Nowadays, I am working on Shopify's Experimentation Platform as a data developer.
 
-<h4 align="left" >I'm a Full Stack Developer working on Typescript Eenvironment</h4>
 
 <h2 align="left">🛠 Language and tools</h3>
 
