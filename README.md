@@ -1,13 +1,14 @@
 # Hey, I'm Ujjwal (he/him) 👋
-<div align="left">
+<div>
   <a href="https://www.linkedin.com/in/itsukcode/">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C71610&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C71610&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
 </div>
 </br>
-I'm a Fullstack Developer🚀 from India, currently working on a Typescript Environment. I'm a skilled developer with expertise in web development and software development. I have gained a strong foundation in the programming languages C++ & Typescript/Javascript .</br>
+I'm a Fullstack Developer🚀 from India, currently working on a Typescript Environment. I'm a skilled developer with expertise in web development and software development. I have gained a strong foundation in the programming languages <em><strong>C++ & Typescript/Javascript</strong></em> .</br>
 I have a passion for creating clean and efficient code, and I'm always eager to learn new technologies to stay on top of the latest trends in the industry.
 
 <h2 align="left">🛠 Language and tools</h3>
