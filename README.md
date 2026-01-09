@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/qMTkKBx0/Facebook-cover-1.png" alt="Facebook-cover-1" border="0">
+</div>
+
 # Hey, I'm Ujjwal (he/him) 👋
 <div>
   <a href="https://www.linkedin.com/in/itsukcode/">
