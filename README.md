@@ -25,6 +25,8 @@ I have a passion for creating clean and efficient code, and I'm always eager to 
 <div display="flex">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
@@ -44,6 +46,10 @@ I have a passion for creating clean and efficient code, and I'm always eager to 
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
 </div>
 
 ###
