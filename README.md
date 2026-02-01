@@ -37,11 +37,13 @@ I have a passion for creating clean and efficient code, and I'm always eager to 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="kafka logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
 </div>
 
 ###
