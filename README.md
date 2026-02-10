@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/qMTkKBx0/Facebook-cover-1.png" alt="Facebook-cover-1" border="0">
 </div>
 
-# Hey, I'm Ujjwal (he/him) 👋
+# Hey, I'm Ujjwal (he/him) 
 <div>
   <a href="https://www.linkedin.com/in/itsukcode/">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
