@@ -21,6 +21,7 @@
 I'm a Fullstack Developer from India, currently working on a <em><strong>Typescript Environment </strong></em>. I'm a skilled developer with expertise in the programming languages <strong>C++ & Typescript/Javascript </strong>.</br>
 I have a passion for creating clean and efficient code, and I'm always eager to learn new technologies to stay on top of the latest trends in the industry.
 
+
 <h2 align="left">🛠 Language and tools</h3>
 <div display="flex">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
