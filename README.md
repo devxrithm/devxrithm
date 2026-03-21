@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.ibb.co/qMTkKBx0/Facebook-cover-1.png" alt="Facebook-cover-1" border="0">
-</div>
+</div> -->
 
 # Hey, I'm Ujjwal (he/him) 
 <div>
@@ -17,13 +17,26 @@
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
 </div>
-
 </br>
-I'm a Fullstack Developer from India, currently working on a <em><strong>Typescript Environment </strong></em>. I'm a skilled developer with expertise in the programming languages <strong>C++ & Typescript/Javascript </strong>.</br>
+
+I'm a Fullstack Developer from India, currently working on a <em><strong>Typescript Environment</strong></em>. I'm a skilled developer with expertise in the programming languages <strong>C++ & Typescript/Javascript</strong>.</br>
 I have a passion for creating clean and efficient code, and I'm always eager to learn new technologies to stay on top of the latest trends in the industry.
 
+---
 
-<h2 align="left">🛠 Language and tools</h3>
+## 🚀 Current Projects
+
+| 🏗️ Project | 📝 Description | 🔗 Live Demo |
+|-----------|---------------|-------------|
+| 🤖 **Coin Chain Exchange** | A crypto trading platform built using Node js, TypeScript, Kafka, Redis | [🌐 Live](https://crypto-exchange-web.onrender.com/) |
+| ⚡ **Lamp** | A platform for managing hackathon participants including monitoring, uploading marks, and publishing results. | [🌐 Live]((https://lamp-mih.vercel.app/) |
+| 🛒 **MIH 4.0** | Landing Page for tech hackathon for version 4.0 | [🌐 Live](https://mih-4-0.vercel.app/) |
+| 📊 **MIH 3.0** | Landing Page for tech hackathon | [🌐 Live](https://mih-hq-two.vercel.app/) |
+
+---
+
+## 🛠 Language and tools
+
 <div display="flex">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -53,5 +66,3 @@ I have a passion for creating clean and efficient code, and I'm always eager to 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo"  />
 </div>
-
-###
