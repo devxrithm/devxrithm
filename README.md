@@ -32,7 +32,7 @@ I have a passion for creating clean and efficient code, and I'm always eager to 
 | ⚡ **Lamp** | A platform for managing hackathon participants including monitoring, uploading marks, and publishing results. | [🌐 Live](https://lamp-mih.vercel.app/)|
 | 🛒 **MIH 4.0** | Landing Page for tech hackathon for version 4.0 | [🌐 Live](https://mih-4-0.vercel.app/) |
 | 📊 **MIH 3.0** | Landing Page for tech hackathon | [🌐 Live](https://mih-hq-two.vercel.app/) |
-| 📊 **Count-Down Timer** | Count-Down timer for hackathon | [🌐 Live]([https://mih-hq-two.vercel.app/](https://countdown-mih.netlify.app/timer) |
+| 📊 **Count-Down Timer** | Count-Down timer for hackathon | [🌐 Live](https://countdown-mih.netlify.app/timer) |
 
 ---
 
